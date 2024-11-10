@@ -37,13 +37,13 @@ The dataset includes the following features:
 
 - Best Parameters: {'classifier**metric': 'minkowski', 'classifier**n_neighbors': 10, 'feature_selection\*\*k': 11}
 - Best Cross-Validation Score: 0.87
-- Test Set Accuracy: 0.88
+- Test Set Accuracy: 0.87
 
 ### Logistic Regression
 
 - Best Parameters: {'classifier**C': 1, 'classifier**penalty': 'l2', 'feature_selection\*\*k': 10}
 - Best Cross-Validation Score: 0.86
-- Test Set Accuracy: 0.86
+- Test Set Accuracy: 0.87
 
 ## Future Work
 
